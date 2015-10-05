@@ -1,6 +1,6 @@
 name: epicurrence
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.08811
 cta:
   domain: null
   bucket: null
@@ -20,7 +20,7 @@ color:
     - '#ffffff'
     - '#8d8d8d'
     - '#ffba00'
-  brandStrength: 0.0625
+  brandStrength: 0.125
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
