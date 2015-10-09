@@ -1,28 +1,40 @@
-name: epicurrence
 favicon: null
-layout_spectrum: 0.84938
-typography_spectrum: 1
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: epicurrence
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5625
+  brandStrength: 0.0625
+  rhythmicContrast: 1
   brandColors:
     - '#ff623f'
     - '#e9e3e3'
     - '#1c1817'
     - '#00a7cb'
     - '#accd00'
-  brandStrength: 0.0625
   lightness: 0.75
-  saturation: 0.5625
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.84938
+analytics:
+  twitter: null
+  google: null
+  facebook: null
