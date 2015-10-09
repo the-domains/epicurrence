@@ -5,7 +5,7 @@
         <description><![CDATA[epicurrence]]></description>
         <link>https://thegrid.ai/epicurrence/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 00:49:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2015 00:50:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/epicurrence/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Epicurrence Grid Site WIP]]></title>
@@ -13,6 +13,13 @@
             <link>https://thegrid.ai/epicurrence/epicurrence-grid-site-wip/index.html</link>
             <guid isPermaLink="false">25692486-bf02-4969-a849-cdc73dca148e</guid>
             <pubDate>Tue, 06 Oct 2015 08:46:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#epicurrence]]></title>
+            <description><![CDATA[<article><h1>#epicurrence</h1><img src="https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/e15/12135439_411960038992565_115791352_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/8cnmzAS5WC/?tagged=epicurrence</link>
+            <guid isPermaLink="false">3b1373b9-153b-4391-b02b-ae76288e1584</guid>
+            <pubDate>Fri, 09 Oct 2015 00:46:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[when @whoisjob says you're gonna be fine, you just have to trust him, right? // #epicurrence #getlostwithus #supsquatch #gopro @gopro #redbull @redbull @ricocast]]></title>
@@ -69,13 +76,6 @@
             <link>https://instagram.com/p/8dBF2rDwAS/</link>
             <guid isPermaLink="false">6930951b-7026-43c5-bb49-bcd92d6efd65</guid>
             <pubDate>Mon, 05 Oct 2015 20:14:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Excited (and just a bit nervous) to interview @lil_dill and @danielmall at Epicurrence. No topic is out of bounds. What would you ask them?</p>]]></description>
-            <link>https://twitter.com/dburka/status/651057096620773376</link>
-            <guid isPermaLink="false">25eca391-03b6-48d2-b2e0-199f9d82d5d3</guid>
-            <pubDate>Mon, 05 Oct 2015 20:13:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
