@@ -1,7 +1,7 @@
 name: epicurrence
 favicon: null
-layout_spectrum: 0.33606
-typography_spectrum: 0.35041
+layout_spectrum: 0.32581
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
