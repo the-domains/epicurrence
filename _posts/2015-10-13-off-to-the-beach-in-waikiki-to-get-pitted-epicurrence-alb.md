@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8q0imvtB3f/?tagged=epicurrence'
 title: 'Off to the beach in Waikiki to get pitted. @epicurrence #albumsurfboards #topodesigns #billabong #hawaii #epicurrence'
-datePublished: '2015-10-13T13:15:00.037Z'
-dateModified: '2015-10-13T13:12:53.130Z'
+datePublished: '2015-10-13T20:11:00.778Z'
+dateModified: '2015-10-13T18:52:09.619Z'
 sourcePath: _posts/2015-10-13-off-to-the-beach-in-waikiki-to-get-pitted-epicurrence-alb.md
 published: true
 inFeed: true
