@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8sFlG2ns-u/?tagged=epicurrence'
 title: Here we have @tarahhemeon doing what she loves - taking pictures in a bikini in Hawaii. Blessed to have this women in my life.
-datePublished: '2015-10-13T13:15:00.108Z'
-dateModified: '2015-10-13T13:12:14.074Z'
+datePublished: '2015-10-13T20:11:01.330Z'
+dateModified: '2015-10-13T18:52:10.912Z'
 sourcePath: _posts/2015-10-13-here-we-have-tarahhemeon-doing-what-she-loves-taking-pict.md
 published: true
 inFeed: true
