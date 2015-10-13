@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8m9C71ns8K/?tagged=epicurrence'
 title: "Don't mess with the locals in Hawaii. Getting punched out by @photomurray while @panchosullivan_hi looks on in disbelief."
-datePublished: '2015-10-13T13:14:58.889Z'
-dateModified: '2015-10-13T13:13:40.999Z'
+datePublished: '2015-10-13T20:11:00.832Z'
+dateModified: '2015-10-13T18:52:09.438Z'
 sourcePath: _posts/2015-10-13-dont-mess-with-the-locals-in-hawaii-getting-punched-out-by.md
 published: true
 inFeed: true
