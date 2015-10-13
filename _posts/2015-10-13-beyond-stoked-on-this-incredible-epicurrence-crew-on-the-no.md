@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8pYWHuDwNT/'
 title: "Beyond stoked on this incredible #epicurrence crew on the North Shore, Oahu. We lived, ate, surfed, explored, adventured, and had serious/tough/fun epic conversations together for a full week. We were even honored by receiving aloha from @makuarothman, followed by riding the SUPsquatch with @whoisjob, surfing with @panchosullivan_hi + @mylespadaca, and epic story times from special guests @thomascampbellart + @themattson2 + @donkeyshow - it was the definition of EPIC. It's been the greatest honor serving this epic group of humans. So much respect for each and every one of you. Mahalo for the memories and friendships."
-datePublished: '2015-10-13T12:41:08.474Z'
-dateModified: '2015-10-13T12:39:04.530Z'
+datePublished: '2015-10-13T12:41:21.994Z'
+dateModified: '2015-10-13T12:41:08.474Z'
 sourcePath: _posts/2015-10-13-beyond-stoked-on-this-incredible-epicurrence-crew-on-the-no.md
 published: true
 inFeed: true
