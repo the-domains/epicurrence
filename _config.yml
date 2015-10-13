@@ -1,7 +1,6 @@
 name: epicurrence
 favicon: null
-layout_spectrum: 0.35143
-typography_spectrum: 0.96107
+layout_spectrum: 0.34098
 cta:
   domain: null
   bucket: null
@@ -15,14 +14,9 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors:
-    - '#261815'
-    - '#dcf0cb'
-    - '#d84d46'
-    - '#947f7b'
-    - '#c9b9b9'
+  brandColors: []
   brandStrength: 0
-  lightness: 0.1875
-  saturation: 1
-  rhythmicContrast: 1
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
