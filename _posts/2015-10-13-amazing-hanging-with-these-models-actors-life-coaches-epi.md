@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8pN_dyBuNj/?tagged=epicurrence'
 title: 'Amazing hanging with these models, actors, life coaches #epicurrence #thegame #hawaii #elegantseagulls'
-datePublished: '2015-10-13T13:15:00.084Z'
-dateModified: '2015-10-13T13:13:09.454Z'
+datePublished: '2015-10-13T20:11:00.941Z'
+dateModified: '2015-10-13T18:52:10.670Z'
 sourcePath: _posts/2015-10-13-amazing-hanging-with-these-models-actors-life-coaches-epi.md
 published: true
 inFeed: true
