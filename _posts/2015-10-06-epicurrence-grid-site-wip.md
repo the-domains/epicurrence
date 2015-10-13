@@ -1,13 +1,15 @@
 ---
-isBasedOnUrl: 'urn:uuid:d0da1842-ef23-4a04-bd8b-d3368d5ab1c9'
+inFeed: true
+hasPage: true
+inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Wow
 author: []
-datePublished: '2015-10-06T08:46:09.584Z'
-title: Epicurrence Grid Site WIP
-dateModified: '2015-10-06T04:04:41.464Z'
+datePublished: '2015-10-13T13:06:40.365Z'
+title: Epicurrence on the Grid (WIP)
+dateModified: '2015-10-13T13:06:24.994Z'
 sourcePath: _posts/2015-10-06-epicurrence-grid-site-wip.md
 published: true
 tags:
@@ -23,5 +25,5 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-# Epicurrence Grid Site WIP
+# Epicurrence on the Grid (WIP)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af150f9f-61cf-448c-9a51-6bc73a36b593.png)
