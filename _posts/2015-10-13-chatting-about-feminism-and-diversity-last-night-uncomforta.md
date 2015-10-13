@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8oGvb8rquI/?tagged=epicurrence'
 title: 'Chatting about feminism and diversity last night. Uncomfortable conversations are a positive thing. #epicurrence'
-datePublished: '2015-10-13T13:15:00.030Z'
-dateModified: '2015-10-13T13:13:17.276Z'
+datePublished: '2015-10-13T20:11:00.864Z'
+dateModified: '2015-10-13T18:52:09.386Z'
 sourcePath: _posts/2015-10-13-chatting-about-feminism-and-diversity-last-night-uncomforta.md
 published: true
 inFeed: true
