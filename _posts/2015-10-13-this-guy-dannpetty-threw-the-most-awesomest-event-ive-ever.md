@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8npGLksFX4/?tagged=epicurrence'
 title: "This guy @dannpetty threw the most awesomest event I've ever been to. #goepic #epicurrence"
-datePublished: '2015-10-13T13:14:59.354Z'
-dateModified: '2015-10-13T13:13:27.950Z'
+datePublished: '2015-10-13T20:11:00.934Z'
+dateModified: '2015-10-13T18:52:09.439Z'
 sourcePath: _posts/2015-10-13-this-guy-dannpetty-threw-the-most-awesomest-event-ive-ever.md
 published: true
 inFeed: true
