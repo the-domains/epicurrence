@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8kyeHuKukw/?tagged=epicurrence'
 title: "It's truly been EPIC getting to know so many passionate, talented and down to earth people - all of whom I look up to and have learned so much from in the past. #goepic #epicurrence"
-datePublished: '2015-10-09T00:46:14.927Z'
-dateModified: '2015-10-09T00:42:28.180Z'
+datePublished: '2015-10-14T16:55:20.933Z'
+dateModified: '2015-10-09T00:46:14.927Z'
 sourcePath: _posts/2015-10-09-its-truly-been-epic-getting-to-know-so-many-passionate-tal.md
 published: true
 inFeed: true
