@@ -37,9 +37,9 @@ description: 'Brother at arms with @narrowd at #epicurrence2'
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/raleighfelton/status/652368957685411840'
-datePublished: '2015-10-09T12:50:39.467Z'
+datePublished: '2015-10-14T16:55:18.075Z'
 title: ''
-dateModified: '2015-10-09T12:49:56.822Z'
+dateModified: '2015-10-09T12:50:39.467Z'
 sourcePath: _posts/2015-10-09-brother-at-arms-with-narrowd-at-epicurrence2.md
 published: true
 inFeed: true
