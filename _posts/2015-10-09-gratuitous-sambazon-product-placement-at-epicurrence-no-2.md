@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8l1eceFCXn/?tagged=epicurrence'
 title: 'Gratuitous @sambazon product placement at #epicurrence No. 2 - thanks for the delicious+nutritious breakfasts @jbsamba @haleiwabowls'
-datePublished: '2015-10-09T00:47:12.406Z'
-dateModified: '2015-10-09T00:41:39.770Z'
+datePublished: '2015-10-14T16:55:21.582Z'
+dateModified: '2015-10-09T00:47:12.406Z'
 sourcePath: _posts/2015-10-09-gratuitous-sambazon-product-placement-at-epicurrence-no-2.md
 published: true
 inFeed: true
