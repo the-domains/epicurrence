@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8l_Y1XMwPt/?tagged=epicurrence'
 title: 'Well, hello down there. Part 2 #epicurrence'
-datePublished: '2015-10-09T00:47:12.124Z'
-dateModified: '2015-10-09T00:42:04.673Z'
+datePublished: '2015-10-14T16:55:21.109Z'
+dateModified: '2015-10-09T00:47:12.124Z'
 sourcePath: _posts/2015-10-09-well-hello-down-there-part-2-epicurrence.md
 published: true
 inFeed: true
