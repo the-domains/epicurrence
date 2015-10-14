@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8jqQrJHf0W/?tagged=epicurrence'
 title: 'Getting a new perspective on life. #epicurrence #getlostwithus #nikefree'
-datePublished: '2015-10-09T00:46:12.971Z'
-dateModified: '2015-10-09T00:43:25.091Z'
+datePublished: '2015-10-14T16:55:19.351Z'
+dateModified: '2015-10-09T00:46:12.971Z'
 sourcePath: _posts/2015-10-09-getting-a-new-perspective-on-life-epicurrence-getlostwith.md
 published: true
 inFeed: true
