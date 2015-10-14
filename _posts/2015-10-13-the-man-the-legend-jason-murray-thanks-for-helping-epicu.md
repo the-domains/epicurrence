@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8tjT_Nulq0/?tagged=epicurrence'
 title: 'The man, the legend, Jason Murray. Thanks for helping #Epicurrence be such a success!'
-datePublished: '2015-10-13T20:11:01.693Z'
-dateModified: '2015-10-13T18:52:10.913Z'
+datePublished: '2015-10-14T16:55:17.533Z'
+dateModified: '2015-10-13T20:11:01.693Z'
 sourcePath: _posts/2015-10-13-the-man-the-legend-jason-murray-thanks-for-helping-epicu.md
 published: true
 inFeed: true
