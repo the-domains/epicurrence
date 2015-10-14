@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8hRq8PACbf/?tagged=epicurrence'
 title: 'the first full day at #epicurrence has been absolutely amazing. honored to be here and taking part.'
-datePublished: '2015-10-09T00:47:12.422Z'
-dateModified: '2015-10-09T00:41:49.215Z'
+datePublished: '2015-10-14T16:55:21.378Z'
+dateModified: '2015-10-09T00:47:12.422Z'
 sourcePath: _posts/2015-10-09-the-first-full-day-at-epicurrence-has-been-absolutely-amazi.md
 published: true
 inFeed: true
