@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8jQUc2ou3L/?tagged=epicurrence'
 title: 'group photo time! #epicurrence #goepic'
-datePublished: '2015-10-09T00:46:12.785Z'
-dateModified: '2015-10-09T00:43:55.942Z'
+datePublished: '2015-10-14T16:55:18.395Z'
+dateModified: '2015-10-09T00:46:12.785Z'
 sourcePath: _posts/2015-10-09-group-photo-time-epicurrence-goepic.md
 published: true
 inFeed: true
