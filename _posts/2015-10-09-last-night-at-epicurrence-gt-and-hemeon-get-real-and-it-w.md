@@ -43,9 +43,9 @@ description: 'Last night at #Epicurrence @gt and @hemeon get real and it was gre
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/lil_dill/status/652176984462626817'
-datePublished: '2015-10-09T00:47:27.931Z'
+datePublished: '2015-10-14T16:55:22.113Z'
 title: ''
-dateModified: '2015-10-09T00:37:02.467Z'
+dateModified: '2015-10-09T00:47:27.931Z'
 sourcePath: _posts/2015-10-09-last-night-at-epicurrence-gt-and-hemeon-get-real-and-it-w.md
 published: true
 inFeed: true
