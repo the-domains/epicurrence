@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8j5Gllquj5/?tagged=epicurrence'
 title: 'Open door heli tour today. #epicurrence #goepic'
-datePublished: '2015-10-09T00:46:13.441Z'
-dateModified: '2015-10-09T00:43:23.342Z'
+datePublished: '2015-10-14T16:55:19.330Z'
+dateModified: '2015-10-09T00:46:13.441Z'
 sourcePath: _posts/2015-10-09-open-door-heli-tour-today-epicurrence-goepic.md
 published: true
 inFeed: true
