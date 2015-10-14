@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8k0Z35OlkR/?tagged=epicurrence'
 title: 'This is what I look like when I take a picture with two insanely talented and legendary surfers... #epicurrence'
-datePublished: '2015-10-09T00:47:11.985Z'
-dateModified: '2015-10-09T00:42:24.551Z'
+datePublished: '2015-10-14T16:55:20.985Z'
+dateModified: '2015-10-09T00:47:11.985Z'
 sourcePath: _posts/2015-10-09-this-is-what-i-look-like-when-i-take-a-picture-with-two-insa.md
 published: true
 inFeed: true
