@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8lygtFulko/'
 title: 'This is what @cor.by looks like at #offthewall #epicurrence #design #surfing'
-datePublished: '2015-10-09T00:47:13.104Z'
-dateModified: '2015-10-09T00:39:15.583Z'
+datePublished: '2015-10-14T16:55:21.817Z'
+dateModified: '2015-10-09T00:47:13.104Z'
 sourcePath: _posts/2015-10-09-this-is-what-corby-looks-like-at-offthewall-epicurrence.md
 published: true
 inFeed: true
