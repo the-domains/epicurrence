@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8fXpJloz8L/'
 title: '#epicurrence The one and only @thomascampbellart introducing @themattson2'
-datePublished: '2015-10-09T00:47:28.250Z'
-dateModified: '2015-10-06T10:33:14.016Z'
+datePublished: '2015-10-14T16:55:22.128Z'
+dateModified: '2015-10-09T00:47:28.250Z'
 sourcePath: _posts/2015-10-09-epicurrence-the-one-and-only-thomascampbellart-introducing.md
 published: true
 inFeed: true
