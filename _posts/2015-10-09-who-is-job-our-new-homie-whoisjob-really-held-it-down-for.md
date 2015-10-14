@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8hkb-LxYNS/?tagged=epicurrence'
 title: 'Who is JOB? Our new homie. @whoisjob really held it down for our entire crew today @epicurrence and Supsquatched us all to safety. Check him out on the tail, lending a helping hand. ... or loving caress? #epicurrence #goepic #supsquatch #pipeline #oahu #northshore'
-datePublished: '2015-10-09T00:46:11.847Z'
-dateModified: '2015-10-09T00:45:13.131Z'
+datePublished: '2015-10-14T16:55:18.132Z'
+dateModified: '2015-10-09T00:46:11.847Z'
 sourcePath: _posts/2015-10-09-who-is-job-our-new-homie-whoisjob-really-held-it-down-for.md
 published: true
 inFeed: true
