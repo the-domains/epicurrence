@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8haupcCDx_/?tagged=epicurrence'
 title: "when @whoisjob says you're gonna be fine, you just have to trust him, right? // #epicurrence #getlostwithus #supsquatch #gopro @gopro #redbull @redbull @ricocast"
-datePublished: '2015-10-09T00:46:12.043Z'
-dateModified: '2015-10-09T00:45:02.159Z'
+datePublished: '2015-10-14T16:55:18.129Z'
+dateModified: '2015-10-09T00:46:12.043Z'
 sourcePath: _posts/2015-10-09-when-whoisjob-says-youre-gonna-be-fine-you-just-have-to-t.md
 published: true
 inFeed: true
