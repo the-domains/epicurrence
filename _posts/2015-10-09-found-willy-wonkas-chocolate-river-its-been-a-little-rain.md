@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8hRS3AHf5U/?tagged=epicurrence'
 title: "Found Willy Wonka's chocolate river. It's been a little rainy here. \uD83C\uDF6B #getlostwithus #epicurrence"
-datePublished: '2015-10-09T00:47:12.749Z'
-dateModified: '2015-10-09T00:41:28.828Z'
+datePublished: '2015-10-14T16:55:21.638Z'
+dateModified: '2015-10-09T00:47:12.749Z'
 sourcePath: _posts/2015-10-09-found-willy-wonkas-chocolate-river-its-been-a-little-rain.md
 published: true
 inFeed: true
