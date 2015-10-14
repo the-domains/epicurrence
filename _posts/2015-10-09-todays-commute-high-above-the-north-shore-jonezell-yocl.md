@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8jWmdLhMZG/?tagged=epicurrence'
 title: "Today's commute. High above the North Shore. @jonezell @yocline @gene.ross #epicurrence #billabong"
-datePublished: '2015-10-09T00:46:13.477Z'
-dateModified: '2015-10-09T00:43:26.778Z'
+datePublished: '2015-10-14T16:55:19.270Z'
+dateModified: '2015-10-09T00:46:13.477Z'
 sourcePath: _posts/2015-10-09-todays-commute-high-above-the-north-shore-jonezell-yocl.md
 published: true
 inFeed: true
