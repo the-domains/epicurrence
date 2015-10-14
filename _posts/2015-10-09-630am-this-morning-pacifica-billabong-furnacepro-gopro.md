@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/7CSsWzjwIS/?tagged=epicurrence'
 title: '630AM this morning. #pacifica #billabong #furnacepro #gopro #epicurrence #minisimmons'
-datePublished: '2015-10-09T00:46:12.432Z'
-dateModified: '2015-10-09T00:44:09.657Z'
+datePublished: '2015-10-14T16:55:18.331Z'
+dateModified: '2015-10-09T00:46:12.432Z'
 sourcePath: _posts/2015-10-09-630am-this-morning-pacifica-billabong-furnacepro-gopro.md
 published: true
 inFeed: true
