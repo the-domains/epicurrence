@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8jkiIJhMeQ/?tagged=epicurrence'
 title: 'Mid-flight @tobygrubb @epicurrence #epicurrence'
-datePublished: '2015-10-09T00:46:13.291Z'
-dateModified: '2015-10-09T00:43:24.243Z'
+datePublished: '2015-10-14T16:55:19.328Z'
+dateModified: '2015-10-09T00:46:13.291Z'
 sourcePath: _posts/2015-10-09-mid-flight-tobygrubb-epicurrence-epicurrence.md
 published: true
 inFeed: true
