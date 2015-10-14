@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8mLNhJgomM/'
 title: "\uD83D\uDE81\uD83C\uDFC4\uD83C\uDF4D #epicurrence #hawii #workfromhelicopter #GoPro #goproliveit"
-datePublished: '2015-10-09T00:47:13.380Z'
-dateModified: '2015-10-09T00:38:08.062Z'
+datePublished: '2015-10-14T16:55:22.071Z'
+dateModified: '2015-10-09T00:47:13.380Z'
 sourcePath: _posts/2015-10-09-epicurrence-hawii-workfromhelicopter-gopro-gopro.md
 published: true
 inFeed: true
