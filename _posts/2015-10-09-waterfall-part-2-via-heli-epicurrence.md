@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8jTmLfEI51/?tagged=epicurrence'
 title: 'Waterfall part 2 via Heli #epicurrence'
-datePublished: '2015-10-09T00:46:13.071Z'
-dateModified: '2015-10-09T00:43:29.357Z'
+datePublished: '2015-10-14T16:55:19.146Z'
+dateModified: '2015-10-09T00:46:13.071Z'
 sourcePath: _posts/2015-10-09-waterfall-part-2-via-heli-epicurrence.md
 published: true
 inFeed: true
