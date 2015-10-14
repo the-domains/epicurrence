@@ -21,10 +21,13 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8eetFxsLjp/'
 title: Landfall. @epicurrence
-datePublished: '2015-10-06T00:44:18.038Z'
-dateModified: '2015-10-06T00:43:46.134Z'
+datePublished: '2015-10-14T16:55:22.255Z'
+dateModified: '2015-10-06T00:44:18.038Z'
 sourcePath: _posts/2015-10-06-landfall-epicurrence.md
 published: true
+inFeed: true
+hasPage: false
+inNav: false
 _type: Photograph
 _context: 'http://schema.org'
 
