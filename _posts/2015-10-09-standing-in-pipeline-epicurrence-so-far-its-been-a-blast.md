@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8i6bT-Aa-q/'
 title: "Standing in Pipeline @epicurrence. So far it's been a blast out here! #epicurrence"
-datePublished: '2015-10-09T00:47:12.752Z'
-dateModified: '2015-10-09T00:39:58.956Z'
+datePublished: '2015-10-14T16:55:21.697Z'
+dateModified: '2015-10-09T00:47:12.752Z'
 sourcePath: _posts/2015-10-09-standing-in-pipeline-epicurrence-so-far-its-been-a-blast.md
 published: true
 inFeed: true
