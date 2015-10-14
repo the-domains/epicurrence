@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8hT6Uxh_pv/?tagged=epicurrence'
 title: 'Quite the swag bag for #epicurrence 2.0 . Not to mention that inside every @topodesigns bag is a GoPro black thanks to @gosolarutah .'
-datePublished: '2015-10-09T00:46:11.842Z'
-dateModified: '2015-10-09T00:44:50.343Z'
+datePublished: '2015-10-14T16:55:18.229Z'
+dateModified: '2015-10-09T00:46:11.842Z'
 sourcePath: _posts/2015-10-09-quite-the-swag-bag-for-epicurrence-20--not-to-mention-tha.md
 published: true
 inFeed: true
