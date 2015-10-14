@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8j6PtoRYGT/?tagged=epicurrence'
 title: 'Not everything goes as planned at #epicurrence. This stunt went rogue, but @ricocast and @austinhendrix capture it brilliantly. #goepic #northshore #oahu'
-datePublished: '2015-10-09T00:46:13.442Z'
-dateModified: '2015-10-09T00:43:22.520Z'
+datePublished: '2015-10-14T16:55:19.443Z'
+dateModified: '2015-10-09T00:46:13.442Z'
 sourcePath: _posts/2015-10-09-not-everything-goes-as-planned-at-epicurrence-this-stunt-w.md
 published: true
 inFeed: true
