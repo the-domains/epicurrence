@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8jtXmDulpN/?tagged=epicurrence'
 title: 'Adventures in #Oahu with @mantwan @natalievi & @clagoon at #epicurrence'
-datePublished: '2015-10-09T00:47:12.227Z'
-dateModified: '2015-10-09T00:41:52.525Z'
+datePublished: '2015-10-14T16:55:21.340Z'
+dateModified: '2015-10-09T00:47:12.227Z'
 sourcePath: _posts/2015-10-09-adventures-in-oahu-with-mantwan-natalievi-and-clagoon-at.md
 published: true
 inFeed: true
