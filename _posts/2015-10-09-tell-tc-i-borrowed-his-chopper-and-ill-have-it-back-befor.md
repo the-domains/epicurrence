@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8kFABRCDzS/?tagged=epicurrence'
 title: "tell T.C. I borrowed his chopper and I'll have it back before dark // #epicurrence #getlostwithus"
-datePublished: '2015-10-09T00:47:12.421Z'
-dateModified: '2015-10-09T00:41:45.763Z'
+datePublished: '2015-10-14T16:55:21.376Z'
+dateModified: '2015-10-09T00:47:12.421Z'
 sourcePath: _posts/2015-10-09-tell-tc-i-borrowed-his-chopper-and-ill-have-it-back-befor.md
 published: true
 inFeed: true
