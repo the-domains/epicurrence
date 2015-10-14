@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8h9_RWOlqZ/?tagged=epicurrence'
 title: "@whoisjob hitting #offthewall #epicurrence #surfing #surf \\m/"
-datePublished: '2015-10-09T04:39:27.866Z'
-dateModified: '2015-10-09T00:46:12.014Z'
+datePublished: '2015-10-14T16:55:18.075Z'
+dateModified: '2015-10-09T04:39:27.866Z'
 sourcePath: _posts/2015-10-09-whoisjob-hitting-offthewall-epicurrence-surfing-surf-m.md
 published: true
 inFeed: true
