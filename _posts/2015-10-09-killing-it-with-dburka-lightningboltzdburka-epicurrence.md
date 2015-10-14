@@ -37,9 +37,9 @@ description: 'Killing it with @dburka @lightningboltzdburka @epicurrence (@ Keā
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/JuanArreguin/status/652271846117765121'
-datePublished: '2015-10-09T00:47:13.139Z'
+datePublished: '2015-10-14T16:55:22.100Z'
 title: ''
-dateModified: '2015-10-09T00:38:17.488Z'
+dateModified: '2015-10-09T00:47:13.139Z'
 sourcePath: _posts/2015-10-09-killing-it-with-dburka-lightningboltzdburka-epicurrence.md
 published: true
 inFeed: true
