@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8wZ06lEI6K/'
 title: 'Napali Coast selfie. #epicurrence'
-datePublished: '2015-10-13T12:41:21.834Z'
-dateModified: '2015-10-13T12:41:08.370Z'
+datePublished: '2015-10-14T16:55:17.948Z'
+dateModified: '2015-10-13T12:41:21.834Z'
 sourcePath: _posts/2015-10-13-napali-coast-selfie-epicurrence.md
 published: true
 inFeed: true
