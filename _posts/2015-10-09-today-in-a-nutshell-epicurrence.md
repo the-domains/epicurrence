@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8jVZg0swLO/?tagged=epicurrence'
 title: 'Today in a nutshell. #epicurrence'
-datePublished: '2015-10-09T00:46:12.477Z'
-dateModified: '2015-10-09T00:43:50.613Z'
+datePublished: '2015-10-14T16:55:19.132Z'
+dateModified: '2015-10-09T00:46:12.477Z'
 sourcePath: _posts/2015-10-09-today-in-a-nutshell-epicurrence.md
 published: true
 inFeed: true
