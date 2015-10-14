@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8rszCXAa93/?tagged=epicurrence'
 title: 'Early morning peeler. #epicurrence'
-datePublished: '2015-10-13T13:15:18.040Z'
-dateModified: '2015-10-13T13:11:42.829Z'
+datePublished: '2015-10-14T16:55:17.888Z'
+dateModified: '2015-10-13T18:52:11.198Z'
 sourcePath: _posts/2015-10-13-early-morning-peeler-epicurrence.md
 published: true
 inFeed: true
