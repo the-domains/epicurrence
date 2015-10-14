@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8uJF_uulo1/?tagged=epicurrence'
 title: 'Huge thanks to @jaredfitch and @vivintsolar for sponsoring @epicurrence no. 2! It was so good getting to know you guys and hearing all about the great things you guys are doing to bring solar energy to the masses. Mohalo! #Epicurrence #solar #vivintsolar'
-datePublished: '2015-10-13T13:15:18.011Z'
-dateModified: '2015-10-13T13:11:49.919Z'
+datePublished: '2015-10-14T16:55:17.777Z'
+dateModified: '2015-10-13T18:52:09.878Z'
 sourcePath: _posts/2015-10-13-huge-thanks-to-jaredfitch-and-vivintsolar-for-sponsoring.md
 published: true
 inFeed: true
