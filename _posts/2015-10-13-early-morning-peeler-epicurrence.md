@@ -20,15 +20,15 @@ app_links:
     app_name: Instagram
     package: com.instagram.android
 title: 'Early morning peeler. #epicurrence'
-datePublished: '2015-10-14T17:07:38.531Z'
-dateModified: '2015-10-14T17:07:34.278Z'
+datePublished: '2015-10-15T02:12:53.370Z'
+dateModified: '2015-10-15T02:12:48.641Z'
 sourcePath: _posts/2015-10-13-early-morning-peeler-epicurrence.md
 published: true
 inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 description: ''
 authors: []
 url: early-morning-peeler-epicurrence/index.html
