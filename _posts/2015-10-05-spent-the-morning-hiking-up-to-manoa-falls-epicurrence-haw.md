@@ -40,11 +40,14 @@ description: 'Spent the morning hiking up to Manoa Falls @epicurrence #hawaii (@
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/justinrgraham/status/650784119320915968'
-datePublished: '2015-10-05T10:10:12.035Z'
+datePublished: '2015-10-15T13:28:59.504Z'
 title: ''
-dateModified: '2015-10-05T10:08:36.480Z'
+dateModified: '2015-10-15T13:15:07.528Z'
 sourcePath: _posts/2015-10-05-spent-the-morning-hiking-up-to-manoa-falls-epicurrence-haw.md
 published: true
+inFeed: true
+hasPage: false
+inNav: false
 _type: Photograph
 _context: 'http://schema.org'
 
