@@ -43,9 +43,9 @@ description: 'Onward to @Epicurrence Hawaii with the cuddly @lat, representing @
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/d4tocchini/status/651105430123376640'
-datePublished: '2015-10-14T16:55:22.290Z'
+datePublished: '2015-10-15T13:28:58.465Z'
 title: ''
-dateModified: '2015-10-05T20:14:09.711Z'
+dateModified: '2015-10-15T13:15:06.195Z'
 sourcePath: _posts/2015-10-05-onward-to-epicurrence-hawaii-with-the-cuddly-lat-represen.md
 published: true
 inFeed: true
