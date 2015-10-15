@@ -43,9 +43,9 @@ description: "Just bought Powerpoint. Don't ask."
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/DannPetty/status/650977239610302464'
-datePublished: '2015-10-14T16:55:22.596Z'
+datePublished: '2015-10-15T13:28:58.494Z'
 title: ''
-dateModified: '2015-10-05T10:27:15.295Z'
+dateModified: '2015-10-15T13:15:06.931Z'
 sourcePath: _posts/2015-10-05-just-bought-powerpoint-dont-ask.md
 published: true
 inFeed: true
