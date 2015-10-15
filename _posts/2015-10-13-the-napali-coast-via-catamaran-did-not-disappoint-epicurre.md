@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8v-OAFEI3w/'
 title: 'The Napali Coast via catamaran did not disappoint. #epicurrence'
-datePublished: '2015-10-14T16:55:17.901Z'
-dateModified: '2015-10-13T12:41:21.984Z'
+datePublished: '2015-10-15T13:28:54.707Z'
+dateModified: '2015-10-15T13:15:00.061Z'
 sourcePath: _posts/2015-10-13-the-napali-coast-via-catamaran-did-not-disappoint-epicurre.md
 published: true
 inFeed: true
