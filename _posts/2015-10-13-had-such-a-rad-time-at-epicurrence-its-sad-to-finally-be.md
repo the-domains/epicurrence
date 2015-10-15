@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8n-Qb9ulrA/?tagged=epicurrence'
 title: "Had such a rad time at #epicurrence! It's sad to finally be packing up and heading home but I'm so thankful to be able to have so many great conversations with so many talented and humble people. Huge thanks to @dannpetty, @vivintsolar, @billabong, @rideononewheel, @sambazon, Ueno, @jaredfitch, @jbsamba, @unsplash, @ricocast, and everyone else who helped make this possible! This was truly the best design conference I have ever been to."
-datePublished: '2015-10-13T13:14:59.066Z'
-dateModified: '2015-10-13T13:13:23.739Z'
+datePublished: '2015-10-15T13:28:53.134Z'
+dateModified: '2015-10-13T18:52:10.300Z'
 sourcePath: _posts/2015-10-13-had-such-a-rad-time-at-epicurrence-its-sad-to-finally-be.md
 published: true
 inFeed: true
