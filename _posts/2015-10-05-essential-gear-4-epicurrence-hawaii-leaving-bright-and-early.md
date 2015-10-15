@@ -34,9 +34,9 @@ description: 'Essential gear 4 @epicurrence Hawaii. Leaving bright & early for L
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/raleighfelton/status/649763469789655040'
-datePublished: '2015-10-14T16:55:22.760Z'
+datePublished: '2015-10-15T13:28:59.262Z'
 title: ''
-dateModified: '2015-10-05T10:12:46.452Z'
+dateModified: '2015-10-15T13:15:07.125Z'
 sourcePath: _posts/2015-10-05-essential-gear-4-epicurrence-hawaii-leaving-bright-and-early.md
 published: true
 inFeed: true
