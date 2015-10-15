@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8kCH_Jj-oc/?tagged=epicurrence'
 title: "Its a win win \uD83D\uDC9C\uD83D\uDE4F\uD83C\uDFFB #epicurrence"
-datePublished: '2015-10-14T16:55:20.356Z'
-dateModified: '2015-10-09T00:46:15.025Z'
+datePublished: '2015-10-15T13:28:56.157Z'
+dateModified: '2015-10-15T13:15:02.143Z'
 sourcePath: _posts/2015-10-09-its-a-win-win-epicurrence.md
 published: true
 inFeed: true
