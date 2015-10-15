@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8dBF2rDwAS/'
 title: 'Aloha @epicurrence attendees! So stoked this day has finally come - #epicurrence starts today!'
-datePublished: '2015-10-14T16:55:22.310Z'
-dateModified: '2015-10-05T20:14:12.731Z'
+datePublished: '2015-10-15T13:28:58.489Z'
+dateModified: '2015-10-15T13:15:06.276Z'
 sourcePath: _posts/2015-10-05-aloha-epicurrence-attendees-so-stoked-this-day-has-finally.md
 published: true
 inFeed: true
