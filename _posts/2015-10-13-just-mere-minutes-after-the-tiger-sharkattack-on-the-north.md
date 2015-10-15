@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8tmsWpxYIO/?tagged=epicurrence'
 title: "Just mere minutes after the tiger #sharkattack on the #northshore, a few friends and I jumped in a cage 3 miles off the coast of #Haleiwa to pay our respect to these magnificent and lethal creatures. My best wishes for a swift recovery go out to 25 year old, local surfer #colincook, who lost his left leg and a few fingertips fighting off a 13 foot #tigershark at Leftovers. #epicurrence #goepic \uD83D\uDCF7: @deezlife"
-datePublished: '2015-10-14T16:55:17.679Z'
-dateModified: '2015-10-13T20:11:01.741Z'
+datePublished: '2015-10-15T13:28:53.875Z'
+dateModified: '2015-10-15T13:14:59.625Z'
 sourcePath: _posts/2015-10-13-just-mere-minutes-after-the-tiger-sharkattack-on-the-north.md
 published: true
 inFeed: true
