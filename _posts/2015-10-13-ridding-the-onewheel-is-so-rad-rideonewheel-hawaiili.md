@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8l0V46J5H_/?tagged=epicurrence'
 title: "Ridding the OneWheel is so rad\uD83D\uDCA5\uD83D\uDCA5\uD83D\uDCA5 #rideonewheel #hawaiiliving"
-datePublished: '2015-10-13T13:14:58.886Z'
-dateModified: '2015-10-13T13:14:08.273Z'
+datePublished: '2015-10-15T13:28:52.692Z'
+dateModified: '2015-10-13T18:52:10.066Z'
 sourcePath: _posts/2015-10-13-ridding-the-onewheel-is-so-rad-rideonewheel-hawaiili.md
 published: true
 inFeed: true
