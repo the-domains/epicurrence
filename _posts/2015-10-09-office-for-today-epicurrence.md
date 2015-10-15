@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8jE9Brh_nO/?tagged=epicurrence'
 title: 'Office for today. #epicurrence'
-datePublished: '2015-10-14T16:55:21.620Z'
-dateModified: '2015-10-09T00:47:12.481Z'
+datePublished: '2015-10-15T13:28:57.217Z'
+dateModified: '2015-10-15T13:15:03.301Z'
 sourcePath: _posts/2015-10-09-office-for-today-epicurrence.md
 published: true
 inFeed: true
