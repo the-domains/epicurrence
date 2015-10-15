@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8mN_sZj-PT/?tagged=epicurrence'
 title: 'Happiness above all else #epicurrence'
-datePublished: '2015-10-13T13:14:58.890Z'
-dateModified: '2015-10-13T13:14:02.799Z'
+datePublished: '2015-10-15T13:28:52.706Z'
+dateModified: '2015-10-13T18:52:09.268Z'
 sourcePath: _posts/2015-10-13-happiness-above-all-else-epicurrence.md
 published: true
 inFeed: true
