@@ -7,9 +7,9 @@ starred: false
 keywords: []
 description: Wow
 author: []
-datePublished: '2015-10-13T13:06:40.365Z'
+datePublished: '2015-10-15T13:28:58.467Z'
 title: Epicurrence on the Grid (WIP)
-dateModified: '2015-10-13T13:06:24.994Z'
+dateModified: '2015-10-15T13:15:05.988Z'
 sourcePath: _posts/2015-10-06-epicurrence-grid-site-wip.md
 published: true
 tags:
@@ -20,7 +20,7 @@ publisher:
   domain: ''
   url: null
   favicon: null
-url: epicurrence-grid-site-wip/index.html
+url: epicurrence-on-the-grid-wip/index.html
 _type: Article
 _context: 'http://schema.org'
 
