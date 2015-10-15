@@ -40,9 +40,9 @@ description: 'Headed to Hawaii for @Epicurrence (@ San Francisco International A
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/justinrgraham/status/650332583277035520'
-datePublished: '2015-10-14T16:55:22.788Z'
+datePublished: '2015-10-15T13:28:58.928Z'
 title: ''
-dateModified: '2015-10-05T10:13:42.063Z'
+dateModified: '2015-10-15T13:15:07.254Z'
 sourcePath: _posts/2015-10-05-headed-to-hawaii-for-epicurrence-san-francisco-internati.md
 published: true
 inFeed: true
