@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8aYTb9DwJA/'
 title: 'Incredibly honored to have @Billabong sponsoring @Epicurrence on the North Shore - 1 more day till kick off. #goepic #epicurrence'
-datePublished: '2015-10-14T16:55:22.615Z'
-dateModified: '2015-10-05T10:27:15.193Z'
+datePublished: '2015-10-15T13:28:58.660Z'
+dateModified: '2015-10-15T13:15:06.926Z'
 sourcePath: _posts/2015-10-05-incredibly-honored-to-have-billabong-sponsoring-epicurrenc.md
 published: true
 inFeed: true
