@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8ltHU1rqvA/'
 title: 'Listening to the @dropbox design team talk interdisciplinary product design workflows. #epicurrence'
-datePublished: '2015-10-14T16:55:21.795Z'
-dateModified: '2015-10-09T00:47:13.079Z'
+datePublished: '2015-10-15T13:28:57.504Z'
+dateModified: '2015-10-15T13:15:04.734Z'
 sourcePath: _posts/2015-10-09-listening-to-the-dropbox-design-team-talk-interdisciplinary.md
 published: true
 inFeed: true
