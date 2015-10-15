@@ -43,9 +43,9 @@ description: 'so freaking excited to attend @Epicurrence next week. hot damn. th
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/dustin/status/649024881347002369'
-datePublished: '2015-10-14T16:55:22.604Z'
+datePublished: '2015-10-15T13:28:58.998Z'
 title: ''
-dateModified: '2015-10-05T10:13:25.665Z'
+dateModified: '2015-10-15T13:15:06.782Z'
 sourcePath: _posts/2015-10-05-so-freaking-excited-to-attend-epicurrence-next-week-hot-da.md
 published: true
 inFeed: true
