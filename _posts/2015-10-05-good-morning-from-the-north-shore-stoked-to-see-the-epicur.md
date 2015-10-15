@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8Yd0xzDwNT/?taken-by=dannpetty'
 title: 'Good morning from the North Shore! Stoked to see the @epicurrence crew in just 2 more days.'
-datePublished: '2015-10-14T16:55:22.326Z'
-dateModified: '2015-10-05T10:27:15.451Z'
+datePublished: '2015-10-15T13:28:58.743Z'
+dateModified: '2015-10-15T13:15:06.338Z'
 sourcePath: _posts/2015-10-05-good-morning-from-the-north-shore-stoked-to-see-the-epicur.md
 published: true
 inFeed: true
