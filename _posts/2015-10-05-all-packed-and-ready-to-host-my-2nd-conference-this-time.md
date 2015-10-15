@@ -21,10 +21,13 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8U1wnVDwBX/'
 title: "All packed and ready to host my 2nd conference - this time, on the North Shore of Oahu, HI based on surfing. Flying out tmrw AM to prepare for Monday's excitement. \uD83C\uDF4D\uD83C\uDF05"
-datePublished: '2015-10-05T10:27:15.461Z'
-dateModified: '2015-10-05T10:26:19.348Z'
+datePublished: '2015-10-15T13:28:58.298Z'
+dateModified: '2015-10-15T13:15:06.414Z'
 sourcePath: _posts/2015-10-05-all-packed-and-ready-to-host-my-2nd-conference-this-time.md
 published: true
+inFeed: true
+hasPage: false
+inNav: false
 _type: Photograph
 _context: 'http://schema.org'
 
