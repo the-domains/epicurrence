@@ -16,8 +16,8 @@ keywords:
   - cr-39
   - height
 description: 'Close ( ) Your browser does not support HTML5 video. Your browser does not support HTML5 video. Using our custom filtered lens that works with natural sunlight, the world around you is transformed into a vivid, never-before-seen experience full of clarity and colour.'
-datePublished: '2015-10-14T17:07:01.957Z'
-dateModified: '2015-10-14T17:06:57.453Z'
+datePublished: '2015-10-15T13:28:52.652Z'
+dateModified: '2015-10-15T13:14:58.502Z'
 author: []
 related: []
 app_links: []
