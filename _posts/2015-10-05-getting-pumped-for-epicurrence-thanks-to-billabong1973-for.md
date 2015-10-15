@@ -34,9 +34,9 @@ description: 'getting pumped for @Epicurrence thanks to @billabong1973 for geari
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/aaronstump/status/648893697724039170'
-datePublished: '2015-10-14T16:55:22.624Z'
+datePublished: '2015-10-15T13:28:59.180Z'
 title: ''
-dateModified: '2015-10-05T10:13:24.885Z'
+dateModified: '2015-10-15T13:15:06.935Z'
 sourcePath: _posts/2015-10-05-getting-pumped-for-epicurrence-thanks-to-billabong1973-for.md
 published: true
 inFeed: true
