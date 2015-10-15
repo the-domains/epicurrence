@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8tZRXQTAtO/?tagged=epicurrence'
 title: "She said yes! \uD83D\uDC8D\uD83C\uDF8F\uD83C\uDF8E . _ #epicurrence #waimea #shesaidyes #evxpriime"
-datePublished: '2015-10-14T16:55:17.679Z'
-dateModified: '2015-10-13T18:52:10.912Z'
+datePublished: '2015-10-15T13:28:54.267Z'
+dateModified: '2015-10-15T13:14:59.890Z'
 sourcePath: _posts/2015-10-13-she-said-yes--_-epicurrence-waimea-shesaidyes-e.md
 published: true
 inFeed: true
