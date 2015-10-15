@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8nSfD3TMnO/?tagged=epicurrence'
 title: '#epicurrence'
-datePublished: '2015-10-13T13:14:59.040Z'
-dateModified: '2015-10-13T13:13:37.833Z'
+datePublished: '2015-10-15T13:28:52.888Z'
+dateModified: '2015-10-13T18:52:10.299Z'
 sourcePath: _posts/2015-10-13-epicurrence.md
 published: true
 inFeed: true
