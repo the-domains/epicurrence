@@ -43,9 +43,9 @@ description: 'Great chatting with the ever insightful @mikeindustries here at #e
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/TheOlmstead/status/651917879219122176'
-datePublished: '2015-10-09T00:47:13.119Z'
+datePublished: '2015-10-15T13:28:57.673Z'
 title: ''
-dateModified: '2015-10-09T00:39:04.828Z'
+dateModified: '2015-10-15T13:15:05.138Z'
 sourcePath: _posts/2015-10-09-great-chatting-with-the-ever-insightful-mikeindustries-here.md
 published: true
 inFeed: true
