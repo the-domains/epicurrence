@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8lmRGaswPo/?tagged=epicurrence'
 title: 'A pretty intense crew #epicurrence'
-datePublished: '2015-10-14T16:55:20.949Z'
-dateModified: '2015-10-09T00:47:12.107Z'
+datePublished: '2015-10-15T13:28:56.557Z'
+dateModified: '2015-10-15T13:15:02.834Z'
 sourcePath: _posts/2015-10-09-a-pretty-intense-crew-epicurrence.md
 published: true
 inFeed: true
