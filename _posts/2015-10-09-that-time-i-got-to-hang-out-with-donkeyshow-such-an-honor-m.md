@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8klqYYgkOc/?tagged=epicurrence'
 title: 'That time I got to hang out with @donkeyshow Such an honor man! #epicurrence'
-datePublished: '2015-10-14T16:55:20.386Z'
-dateModified: '2015-10-09T00:46:14.426Z'
+datePublished: '2015-10-15T13:28:56.498Z'
+dateModified: '2015-10-15T13:15:02.360Z'
 sourcePath: _posts/2015-10-09-that-time-i-got-to-hang-out-with-donkeyshow-such-an-honor-m.md
 published: true
 inFeed: true
