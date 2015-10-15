@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8jTCYjrqq1/?tagged=epicurrence'
 title: 'I do love a longboard wave. #epicurrence'
-datePublished: '2015-10-14T16:55:19.144Z'
-dateModified: '2015-10-09T00:46:12.691Z'
+datePublished: '2015-10-15T13:28:55.420Z'
+dateModified: '2015-10-15T13:15:00.901Z'
 sourcePath: _posts/2015-10-09-i-do-love-a-longboard-wave-epicurrence.md
 published: true
 inFeed: true
