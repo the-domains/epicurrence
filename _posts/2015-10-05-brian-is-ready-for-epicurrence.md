@@ -33,11 +33,14 @@ description: Brian is ready for @Epicurrence.
 inLanguage: de
 app_links: []
 isBasedOnUrl: 'https://twitter.com/uberbryn/status/650420021538107392'
-datePublished: '2015-10-05T10:13:42.100Z'
+datePublished: '2015-10-15T13:28:59.180Z'
 title: ''
-dateModified: '2015-10-05T10:11:24.748Z'
+dateModified: '2015-10-15T13:15:07.292Z'
 sourcePath: _posts/2015-10-05-brian-is-ready-for-epicurrence.md
 published: true
+inFeed: true
+hasPage: false
+inNav: false
 _type: Photograph
 _context: 'http://schema.org'
 
