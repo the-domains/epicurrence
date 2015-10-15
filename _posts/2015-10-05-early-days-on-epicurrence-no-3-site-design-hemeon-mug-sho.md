@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8bhFbpkIwB/'
 title: 'Early days on @epicurrence no 3 site design. @hemeon mug shot in view #epicurrence #design'
-datePublished: '2015-10-14T16:55:22.911Z'
-dateModified: '2015-10-05T10:10:11.932Z'
+datePublished: '2015-10-15T13:28:59.377Z'
+dateModified: '2015-10-15T13:15:07.534Z'
 sourcePath: _posts/2015-10-05-early-days-on-epicurrence-no-3-site-design-hemeon-mug-sho.md
 published: true
 inFeed: true
