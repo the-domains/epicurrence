@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/6zuzKkDwP5/?tagged=epicurrence'
 title: 'So amped on my new wetsuit - thanks @billabong! This Furnace Pro keeps me toasty in SF and wicked comfortable. #gopro #wetsuit #billabong #furnacepro #sanfrancisco #pacifica #epicurrence'
-datePublished: '2015-10-14T16:55:18.311Z'
-dateModified: '2015-10-09T00:46:12.317Z'
+datePublished: '2015-10-15T13:28:55.208Z'
+dateModified: '2015-10-15T13:15:00.767Z'
 sourcePath: _posts/2015-10-09-so-amped-on-my-new-wetsuit-thanks-billabong-this-furnace.md
 published: true
 inFeed: true
