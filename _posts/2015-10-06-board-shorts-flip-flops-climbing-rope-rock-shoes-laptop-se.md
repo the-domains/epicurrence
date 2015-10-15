@@ -33,11 +33,14 @@ description: board shorts flip flops climbing rope rock shoes laptop - see you s
 inLanguage: fr
 app_links: []
 isBasedOnUrl: 'https://twitter.com/dburka/status/650874182410997760'
-datePublished: '2015-10-06T03:47:29.159Z'
+datePublished: '2015-10-15T13:28:58.224Z'
 title: ''
-dateModified: '2015-10-05T10:30:33.686Z'
+dateModified: '2015-10-15T13:15:06.375Z'
 sourcePath: _posts/2015-10-06-board-shorts-flip-flops-climbing-rope-rock-shoes-laptop-se.md
 published: true
+inFeed: true
+hasPage: false
+inNav: false
 _type: Comment
 _context: 'http://schema.org'
 
