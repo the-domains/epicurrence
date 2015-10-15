@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8ldiMGAa-e/'
 title: 'The normal signage up here at the North Shore. #epicurrence'
-datePublished: '2015-10-14T16:55:21.762Z'
-dateModified: '2015-10-09T00:47:13.057Z'
+datePublished: '2015-10-15T13:28:57.525Z'
+dateModified: '2015-10-15T13:15:04.286Z'
 sourcePath: _posts/2015-10-09-the-normal-signage-up-here-at-the-north-shore-epicurrence.md
 published: true
 inFeed: true
