@@ -20,11 +20,11 @@ app_links:
     url: 'https://instagram.com/p/8xYDv-jwEI/'
     type: android
 title: 'The North Shore of Oahu is a magical place to gather. #epicurrence'
-datePublished: '2015-10-14T16:55:17.848Z'
-dateModified: '2015-10-13T20:16:35.828Z'
+datePublished: '2015-10-15T02:12:27.834Z'
+dateModified: '2015-10-15T02:12:24.669Z'
 sourcePath: _posts/2015-10-13-the-north-shore-of-oahu-is-a-magical-place-to-gather-epicu.md
 published: true
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
