@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8liWmVzXG_/?tagged=epicurrence'
 title: 'First gainer in too long! @epicurrence #epicurrence'
-datePublished: '2015-10-14T16:55:20.946Z'
-dateModified: '2015-10-09T00:47:12.144Z'
+datePublished: '2015-10-15T13:28:56.515Z'
+dateModified: '2015-10-15T13:15:02.594Z'
 sourcePath: _posts/2015-10-09-first-gainer-in-too-long-epicurrence-epicurrence.md
 published: true
 inFeed: true
