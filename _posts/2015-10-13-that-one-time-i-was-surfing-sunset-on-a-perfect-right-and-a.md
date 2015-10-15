@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8sHaplnsxQ/?tagged=epicurrence'
 title: That one time I was surfing Sunset on a perfect right and a stand up paddler decided to drop in on me and go left. Clearly there was no left.
-datePublished: '2015-10-14T16:55:17.633Z'
-dateModified: '2015-10-13T18:52:09.832Z'
+datePublished: '2015-10-15T13:28:53.226Z'
+dateModified: '2015-10-15T13:14:58.878Z'
 sourcePath: _posts/2015-10-13-that-one-time-i-was-surfing-sunset-on-a-perfect-right-and-a.md
 published: true
 inFeed: true
