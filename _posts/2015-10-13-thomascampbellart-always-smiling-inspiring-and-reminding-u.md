@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/8mhasFD-nh/?tagged=epicurrence'
 title: "@thomascampbellart always smiling, inspiring and reminding us to keep on sliding \uD83C\uDFC4\uD83C\uDFFC#slideyourbrainsout @sambazon @epicurrence #epicurrence"
-datePublished: '2015-10-13T13:14:58.802Z'
-dateModified: '2015-10-13T13:13:53.877Z'
+datePublished: '2015-10-15T13:28:52.762Z'
+dateModified: '2015-10-13T18:52:10.286Z'
 sourcePath: _posts/2015-10-13-thomascampbellart-always-smiling-inspiring-and-reminding-u.md
 published: true
 inFeed: true
