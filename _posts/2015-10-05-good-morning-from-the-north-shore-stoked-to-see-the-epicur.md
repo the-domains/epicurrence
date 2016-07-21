@@ -1,15 +1,16 @@
 ---
+datePublished: '2016-07-21T03:31:20.314Z'
+sourcePath: >-
+  _posts/2015-10-05-good-morning-from-the-north-shore-stoked-to-see-the-epicur.md
+isBasedOnUrl: 'https://instagram.com/p/8Yd0xzDwNT/?taken-by=dannpetty'
+keywords: []
+related: []
 author:
   - name: dannpetty
     url: 'https://instagram.com/dannpetty'
     avatar: {}
-related: []
-publisher:
-  url: 'https://instagram.com/'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/8090b48/images/ico/favicon.ico'
-  domain: instagram.com
-keywords: []
+dateModified: '2016-07-21T03:31:16.563Z'
+title: ''
 app_links:
   - url: 'instagram://media?id=1087750480241558355'
     type: ios
@@ -19,17 +20,22 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://instagram.com/p/8Yd0xzDwNT/?taken-by=dannpetty'
-title: 'Good morning from the North Shore! Stoked to see the @epicurrence crew in just 2 more days.'
-datePublished: '2015-10-15T13:28:58.743Z'
-dateModified: '2015-10-15T13:15:06.338Z'
-sourcePath: _posts/2015-10-05-good-morning-from-the-north-shore-stoked-to-see-the-epicur.md
-published: true
+publisher:
+  url: 'https://instagram.com/'
+  name: Instagram
+  favicon: >-
+    https://instagramstatic-a.akamaihd.net/bluebar/8090b48/images/ico/favicon.ico
+  domain: instagram.com
+description: >-
+  Good morning from the North Shore! Stoked to see the @epicurrence crew in just
+  2 more days.
+via: {}
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
-_type: Photograph
 _context: 'http://schema.org'
+_type: Photograph
 
 ---
-![Good morning from the North Shore&excl; Stoked to see the &commat;epicurrence crew in just 2 more days&period;](https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/s640x640/sh0.08/e35/12093599_749719621839786_533219237_n.jpg)
+![Good morning from the North Shore! Stoked to see the @epicurrence crew in just 2 more days.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d187ecbc3aa014659a8cf81ad2e0731caa0b63c8.jpg)
