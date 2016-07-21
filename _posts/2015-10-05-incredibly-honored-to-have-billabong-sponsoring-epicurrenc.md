@@ -1,15 +1,18 @@
 ---
+datePublished: '2016-07-21T03:32:13.841Z'
+sourcePath: >-
+  _posts/2015-10-05-incredibly-honored-to-have-billabong-sponsoring-epicurrenc.md
+isBasedOnUrl: 'https://instagram.com/p/8aYTb9DwJA/'
+keywords: []
+related: []
 author:
   - name: dannpetty
     url: 'https://instagram.com/dannpetty'
     avatar: {}
-related: []
-publisher:
-  url: 'https://instagram.com/'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/8090b48/images/ico/favicon.ico'
-  domain: instagram.com
-keywords: []
+dateModified: '2016-07-21T03:32:13.200Z'
+title: >-
+  Incredibly honored to have @Billabong sponsoring @Epicurrence on the North
+  Shore - 1 more day till kick off. #goepic #epicurrence
 app_links:
   - url: 'instagram://media?id=1088289148765143616'
     type: ios
@@ -19,17 +22,20 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://instagram.com/p/8aYTb9DwJA/'
-title: 'Incredibly honored to have @Billabong sponsoring @Epicurrence on the North Shore - 1 more day till kick off. #goepic #epicurrence'
-datePublished: '2015-10-15T13:28:58.660Z'
-dateModified: '2015-10-15T13:15:06.926Z'
-sourcePath: _posts/2015-10-05-incredibly-honored-to-have-billabong-sponsoring-epicurrenc.md
-published: true
+publisher:
+  url: 'https://instagram.com/'
+  name: Instagram
+  favicon: >-
+    https://instagramstatic-a.akamaihd.net/bluebar/8090b48/images/ico/favicon.ico
+  domain: instagram.com
+description: ''
+via: {}
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
-_type: Photograph
 _context: 'http://schema.org'
+_type: Photograph
 
 ---
-![Incredibly honored to have &commat;Billabong sponsoring &commat;Epicurrence on the North Shore - 1 more day till kick off&period; &num;goepic &num;epicurrence](https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/s640x640/sh0.08/e35/12144119_627426097360842_1015098596_n.jpg)
+![Incredibly honored to have @Billabong sponsoring @Epicurrence on the North Shore - 1 more day till kick off. #goepic #epicurrence](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0220dfd8366aa6f392143c9840f5f73094b4ab3e.jpg)
